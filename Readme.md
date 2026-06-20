@@ -1,4 +1,4 @@
-# Envio de Mensagens WhatsApp via Supabase + Z-API
+Envio de Mensagens WhatsApp via Supabase + Z-API
 
 Script em Python que lê contatos cadastrados no Supabase e envia, via Z-API,
 a mensagem personalizada `"Olá, <nome> tudo bem com você?"` para até 3 contatos.
